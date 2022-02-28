@@ -1,0 +1,124 @@
+@media (max-width:720px){
+body{ margin: 0vh;
+      padding: 0vh;}   
+header{ background-image:url("assets/img/header_bg.jpg");
+    text-align: center;
+        
+}  
+header h4{ color: #3d9f96;
+}     
+header h1 , h6 {
+    color: white;
+}
+.btn{ background-color: #3d9f96;
+    color: white;
+    width: 200px;
+    height: 45px;
+    margin-top: -15px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    border: none;
+}
+.social{background-color:#f7f7f7;
+}
+.social img{padding-left: 50px;
+}
+#strong{ text-align: center;
+}
+h2{ font-weight: lighter;}
+#assets{background-image: url("assets/img/map_bg.png");
+        text-align: center;
+}
+.one img, .one figcaption{display: inline-flex;
+}
+.three img, .three figcaption{
+    display: inline-flex;
+}
+#john{text-align: center;
+      background-image: url("assets/img/seperator1-.jpg");
+      color: white;
+}
+.do{color: #3d9f96;
+}
+#john img{width: 50px;
+          margin-top: 20px;
+}
+.screen{background-color: #f7f7f7;
+        margin-top: -20px;
+        text-align: center;
+}
+#shot{padding-left: 25px;
+}
+.litmus{text-align: center;
+}
+.litmus img{ padding-left: 50px;
+}
+.litmus p{ padding-bottom: 40px;
+}
+.responsive{text-align: center;
+}
+.responsive img{ padding-left: 40px;
+}
+.responsive p{padding-bottom: 40px;
+}
+.sayna{background-color: #f7f7f7;
+       text-align: center;
+}
+.same{font-weight: bolder;
+}
+#source{text-align: center;
+}
+#source img{padding: 0 60px 30px 60px;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,246 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Raleway:400,200,100,300,500,600,700,800,900");
+
+
+body{font-family: Open Sans, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif, 'Raleway';
+	font-family: Raleway, Arial, sans-serif ;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+
+#content{
+    margin: auto;
+
+}
+
+.separator{
+    float: left;
+    padding-right: 100px;
+    color: white;
+}
+
+body header{
+    background-image: url("assets/img/header_bg.jpg");
+    color: white;
+    margin: auto;
+    text-align: center;
+}
+nav{ display: inline-flex;
+    text-align: center;
+       margin: auto;
+}
+.then a{ float: right;
+         padding-left: 150px;
+         padding-top: 20px;
+         color: #3d9f96;
+}
+h4{ color: #3d9f96;
+}
+h1{ font-weight: lighter;
+}
+
+
+header .cage{text-align: center;
+              height: 500px;
+}
+div h5{color:#3d9f96 ;
+}
+div p{font-weight: lighter;
+}
+button{ background-color: #3d9f96;
+        color: white;
+        border-radius: 25px;
+        width: 200px;
+        height: 50px;
+        border:none;
+}
+.site{
+      text-align: center;
+      background-color:#f7f7f7 ;
+}
+.site img{padding-top: 25px;
+          padding-left: 42px;
+}
+.cage .photos{width: 1900px;
+        height: 600px;
+        padding-top: 50px;
+}
+div h1, .one{text-align: center;
+}
+.two{
+    display: block;
+    float: left;
+    padding-left: 350px;
+}
+body .two figure img, figcaption{
+    display: inline;
+}
+.three{
+    display: block;
+    float : right;
+    padding-right: 350px;
+}
+.three img{
+    float: right;
+}
+
+#check{
+    text-align: center;
+    margin:auto;
+
+}
+
+#iphone{
+         position: static;
+         padding-left: 107px;
+         padding-bottom: 100px;
+}
+.another{background-image: url("assets/img/seperator2.jpg");
+         color: #f7f7f7;
+         text-align:center;
+         margin: 0;
+         line-height: 40px;
+        
+}
+.do{color: #3d9f96;
+    margin-bottom: 0px;
+}
+h2{text-align: center;
+   padding-right: 279px;
+}
+.good{display: inline-flex;
+      padding-left: 34%;
+}
+.us{background-color: #f7f7f7;
+    padding-top: 20px;
+}
+
+.two, .three{background-image: url("assets/img/map_bg.png");
+}
+.it{margin: 0;
+    background-color:#f7f7f7;
+    padding-left: 20%;
+    display: inline-flex;
+}
+.others{padding-left: 305px;
+        padding-top: 55px;
+}
+.letter{padding-right: 305px;
+        padding-bottom:64px;
+}
+.ideas{padding-top: 1px;
+}
+.think{margin: 0;
+}
+.about{
+    /* padding-left: 800px; */
+    float: right;
+    width: 50%;
+    margin-top: 15px;
+}
+
+.book{ padding-left: 680px;
+}
+.note{ padding-left: 710px;
+}
+.dive{ padding-left: 716px;
+}
+.parents{ margin: 0px;
+          padding: 0px;
+          padding-bottom: 50px;
+          width: 100%;
+          background-color: #f7f7f7; ;
+          display: inline-flex;
+          padding-left: 830px;
+}
+.boy{ padding-left: 90px;
+}
+.girl{
+    padding-left: 90px;
+}
+footer{
+    display: flex;
+    padding-left: 25%;
+}
+.thelast{ display: inline-flex;
+          padding-left: 35%; 
+}
+.fabrinah{
+    padding-left: 10%;
+}
+     
+.us img{  padding: 20px;}
+
+
+@media(max-width:720px){
+    body{ margin: 0;
+        padding: 0;
+    } 
+    header{background-color: black;
+    }
+    header nav h4 , header nav div {display: none;
+    }
+.strong{ font-weight: bolder;
+} 
+body div h5{ display: none;
+}
+.one{ font-weight: bolder;
+}
+.two , .three{ font-weight: bolder;
+}
+.two{ text-align: center;
+      padding-left: 20%;
+      
+}
+.check{
+    background: none;
+    padding-bottom: -5%;
+}
+#iphone{
+        margin-left: 30%;
+         background-image: url("assets/img/map_bg.png");
+}
+/* 
+.another{background-image: url("assets/img/seperator1-.jpg");
+          height: 10%;
+} */
+.three img{ float: none;
+}
+.three{ margin-top:  -20%;
+    padding-left: 20%;
+}
+
+.two img{ float: left;
+}
+#iphone{padding-left: 10%;
+    padding-bottom: 20%;
+}
+
+.us{padding-left: 20px;
+}
+.hidden{
+    display: none;
+}
+.another{ height:-10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
